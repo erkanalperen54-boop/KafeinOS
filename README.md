@@ -18,6 +18,5 @@ run from a floppy disk or CD-ROM, either on an emulator or a real PC.
 See the disk_images/ directory for files that you can write to the 
 appropriate media or boot in, for instance, VMware, QEMU or VirtualBox.
 
-## Developer Team
-
-- **Muhammed Ekrem GÜLER:** Lead developer responsible for project/code frameworks, base references and DOS structures
+### Geliştirme Hikayesi
+KafeinOS Alperen ERKAN tarafında 9 saate geliştirilmiş bir hobi projesidir. Projenin temel amacı eğitim ürünü geliştirmek olan bu proje şu anda öğrenciler ve meraklılarıyla buluşuyor.
